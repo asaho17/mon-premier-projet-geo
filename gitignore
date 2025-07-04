@@ -1,0 +1,22 @@
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Environnements virtuels
+.env
+.venv/
+env/
+
+# Données géospatiales (volumineuses)
+data/*.tif
+data/*.shp
+data/*.dbf
+data/*.shx
+data/*.geojson
+data/*.zip
+data/*.csv
+
+# Fichiers système
+.DS_Store
+Thumbs.db
